@@ -1,1 +1,1 @@
-simple rock paper scissors game made usin python
+simple rock paper scissors game made using python
